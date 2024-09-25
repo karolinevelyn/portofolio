@@ -216,19 +216,6 @@ span{
     margin: 2rem;
 }
 
-::-webkit-scrollbar{
-    width: 15px;
-}
-
-::-webkit-scrollbar-thumb{
-    background-color: var(--main-color);
-}
-
-::-webkit-scrollbar-track{
-    background-color: var(--bg-color);
-    width: 50px;
-}
-
 .services{
     background: var(--second-bg-color);
     color: black;
@@ -304,7 +291,7 @@ span{
 
 .projects-box{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     place-items: center;
     gap: 8rem;
 }
