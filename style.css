@@ -180,6 +180,11 @@ span{
     cursor: pointer;
 }
 
+.btn a{
+    font-size: 1.7rem;
+    color: black;
+}
+
 .btn:hover{
     transform: scale(1.05);
     box-shadow: 0 0 50px var(--main-color);
