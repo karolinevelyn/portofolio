@@ -410,14 +410,6 @@ span{
         display: block;
     }
 
-    .services h2,
-    .projects h2,
-    .contact h2 {
-        text-align: center; 
-        font-size: 2.5rem;
-        margin: 2rem 0;
-    }
-
     .navbar{
         position: absolute;
         top: 100%;
